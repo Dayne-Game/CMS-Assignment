@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import headerStyles from "./header.module.scss"
-import headerImage from "../images/icon.png"
+import headerImage from "../../posts/images/icon.png"
 
 const Header = () => {
   return (

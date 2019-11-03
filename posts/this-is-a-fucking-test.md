@@ -2,7 +2,7 @@
 title: "How to weed spray your garden"
 date: "2001-05-24"
 intro: "Wow, this is actually amazing, thanks guys!"
-image: "../images/test.jpg"
+image: images/test.jpg
 ---
 
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit
