@@ -2,13 +2,13 @@ backend:
   name: github
   repo: Dayne-Game/CMS-Assignment
 
-media_folder: images
-public_folder: images
+media_folder: posts/images
+public_folder: posts/images
 
 collections:
   - name: posts
     label: Post
-    folder: src/posts
+    folder: posts
     create: true
     fields:
       - { name: title, label: Title }
