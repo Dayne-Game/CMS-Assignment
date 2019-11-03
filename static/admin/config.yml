@@ -2,8 +2,8 @@ backend:
   name: github
   repo: Dayne-Game/CMS-Assignment
 
-media_folder: /images
-public_folder: /images
+media_folder: /src/images
+public_folder: /src/images
 
 collections:
   - name: posts
