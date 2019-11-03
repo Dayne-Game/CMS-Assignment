@@ -1,0 +1,18 @@
+backend:
+  name: Github
+  repo: Dayne-Game/CMS-Assignment
+
+media_folder: /images
+public_folder: /images
+
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: date, label: Date, widget: datetime }
+      - { name: intro, label: Intro }
+      - { name: image, label: Image }
+      - { name: body, label: Body, widget: markdown }

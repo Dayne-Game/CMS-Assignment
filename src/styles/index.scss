@@ -1,0 +1,30 @@
+html {
+  font-size: 62.5%;
+  text-size-adjust: 100%;
+}
+
+* {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  background: rgb(249, 250, 252);
+  padding: 50px 0px;
+}
+
+pre {
+  background: rgb(245, 242, 240);
+  margin: 0px;
+  padding: 15px;
+}
+
+blockquote {
+  line-height: 1.7;
+  border-left: 5px solid rgb(224, 230, 237);
+  margin: 15px 50px 15px 75px;
+  padding: 10px 10px 10px 15px;
+}
