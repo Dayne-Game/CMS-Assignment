@@ -9,9 +9,10 @@ collections:
   - name: posts
     label: Post
     folder: src/posts
+    create: true
     fields:
       - { name: title, label: Title }
       - { name: date, label: Date, widget: datetime }
       - { name: intro, label: Intro }
-      - { name: image, label: Image }
+      - { name: image, label: Thumbnail, widget: image }
       - { name: body, label: Body, widget: markdown }
