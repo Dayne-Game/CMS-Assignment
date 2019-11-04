@@ -1,8 +1,8 @@
 ---
-title: "The Great Gatsby Bootcamp"
-date: "1957-04-20"
-intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero."
-image: images/test.jpg
+title: "Netlify CMS"
+date: "1999-04-20"
+intro: "What is going on here?"
+image: ../../static/assets/test.jpg
 ---
 
 Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.

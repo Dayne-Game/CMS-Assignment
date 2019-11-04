@@ -1,8 +1,8 @@
 ---
 title: "The Great Gatsby Bootcamp"
-date: "2019-04-20"
-intro: "Hi! This blog will show how Gatsby works! We also create a cool looking website!"
-image: images/icon.jpg
+date: "1957-04-20"
+intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero."
+image: ../../static/assets/test.jpg
 ---
 
 Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.

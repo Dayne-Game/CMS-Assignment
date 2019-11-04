@@ -4,6 +4,13 @@ module.exports = {
     author: "Dayne Game",
   },
   plugins: [
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: `assets`,
+        path: `${__dirname}/static/assets`,
+      },
+    },
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
@@ -21,14 +28,7 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: `posts`,
-        path: `${__dirname}/posts`,
-      },
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: `${__dirname}/posts/images`,
+        path: `${__dirname}/content/posts`,
       },
     },
     {
