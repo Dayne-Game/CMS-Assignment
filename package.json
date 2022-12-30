@@ -16,7 +16,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
-    "gatsby": "^2.12",
+    "gatsby": "^2.32",
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-netlify-cms": "^4.1.26",
     "gatsby-plugin-sass": "^2.1.20",
